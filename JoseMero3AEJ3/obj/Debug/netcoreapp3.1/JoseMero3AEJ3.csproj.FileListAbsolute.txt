@@ -1,0 +1,14 @@
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.csproj.AssemblyReference.cache
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.AssemblyInfoInputs.cache
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.AssemblyInfo.cs
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.csproj.CoreCompileInputs.cache
+E:\Programas C#\tareas poo\JoseMero3AEJ3\bin\Debug\netcoreapp3.1\JoseMero3AEJ3.exe
+E:\Programas C#\tareas poo\JoseMero3AEJ3\bin\Debug\netcoreapp3.1\JoseMero3AEJ3.deps.json
+E:\Programas C#\tareas poo\JoseMero3AEJ3\bin\Debug\netcoreapp3.1\JoseMero3AEJ3.runtimeconfig.json
+E:\Programas C#\tareas poo\JoseMero3AEJ3\bin\Debug\netcoreapp3.1\JoseMero3AEJ3.runtimeconfig.dev.json
+E:\Programas C#\tareas poo\JoseMero3AEJ3\bin\Debug\netcoreapp3.1\JoseMero3AEJ3.dll
+E:\Programas C#\tareas poo\JoseMero3AEJ3\bin\Debug\netcoreapp3.1\JoseMero3AEJ3.pdb
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.dll
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.pdb
+E:\Programas C#\tareas poo\JoseMero3AEJ3\obj\Debug\netcoreapp3.1\JoseMero3AEJ3.genruntimeconfig.cache
